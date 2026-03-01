@@ -1,0 +1,15 @@
+.race {
+  background: url("/img/race-bg4.jpg");
+  background-size: cover;
+}
+
+.race-track {
+  background: url("/img/race-track.png");
+  background-size: contain;
+}
+
+.vertical-text {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  letter-spacing: 4px;
+}
