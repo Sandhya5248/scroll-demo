@@ -101,7 +101,7 @@ const Hero = () => {
           </div>
           <img
             ref={imageRef}
-            src="/img/car.png"
+            src="/scroll-demo/img/car.png"
             className="w-[200px] will-change-transform"
             alt="visual"
           />
