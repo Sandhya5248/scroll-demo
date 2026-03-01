@@ -57,7 +57,7 @@ const Hero = () => {
           Ready, Set, <span className="text-green gone-bg-fill">Gone</span>!
         </h1>
 
-        <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 mt-40 lg:mt-10 px-10 md:px-0">
+        <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 mt-20 lg:mt-10 px-10 md:px-0">
           <div
             ref={statsRef}
             className="stat-card rounded-xl p-6 bg-yellow-300 text-black"
